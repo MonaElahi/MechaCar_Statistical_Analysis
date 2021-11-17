@@ -29,3 +29,20 @@ head(total_summary)
 # Create lot_summary data frame using group_by() and summarize() to group manufacturing lot
 lot_summary <- suspension_coil %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI), .groups='keep')
 lot_summary
+
+# Deliverable 3
+
+# Perform t.test() function to determine PSI statistically different from mean=1500
+t.test(suspension_coil$PSI, mu=1500)
+
+
+# Perform t.test() function on its subset() to determine PSI on manufacturing lots for mean=1500
+lot1 <- subset(suspension_coil,Manufacturing_Lot == "Lot1")
+lot2 <- subset(suspension_coil,Manufacturing_Lot == "Lot2")
+lot3 <- subset(suspension_coil,Manufacturing_Lot == "Lot3")
+
+
+# perform t.test() function on each manufacturing lot
+t.test(lot1$PSI, mu=1500)
+t.test(lot2$PSI, mu=1500)
+t.test(lot3$PSI, mu=1500)
