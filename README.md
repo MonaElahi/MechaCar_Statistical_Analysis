@@ -46,6 +46,12 @@ For this purpose it is required to review production data and perform statistica
 
 ![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/ttestResults.PNG)
 
+### Lot Results 
+
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/2c3b24f80ad097ef7bada1ba04f1abc32abe4ceb/Images/Images/tTestLot1.PNG)
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/2c3b24f80ad097ef7bada1ba04f1abc32abe4ceb/Images/Images/tTestLot2.PNG)
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/2c3b24f80ad097ef7bada1ba04f1abc32abe4ceb/Images/Images/tTestLot3.PNG)
+
 
 
 # Deliverable 4
