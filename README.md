@@ -16,17 +16,27 @@
 
 ### Images
 
+## Linear Regression
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/LinearReg.PNG)
+
+## Summary of Linear Regression
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/Deliverble1_Summary.PNG)
+
 # Deliverable 2
 
 ## Summary Statistics on Suspension Coils
 
 ### total_summary Image
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/Deliverable2_TotalSummary.PNG)
 
 ### lot_summary Image
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/Deliverable2_LotSummary.PNG)
 
 # Deliverable 3
 
 ## T-Tests on Suspension Coils
+
+![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/ttestResults.PNG)
 
 # Deliverable 4
 
