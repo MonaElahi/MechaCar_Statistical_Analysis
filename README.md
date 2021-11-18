@@ -38,6 +38,8 @@
 
 ![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/ttestResults.PNG)
 
+
+
 # Deliverable 4
 
 ## Study Design: MechaCar vs Competition
