@@ -4,7 +4,15 @@
 
 # Overview of the Project
 
+In this project, 'AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing department progress. 
+For this purpose it is required to review production data and perform statistical analysis which would be helpful for Manufacturing department.
+
 ## Resources
+
+- R 
+- RStudios
+- MechaCar_mpg.csv
+- Suspension_Coil.csv
 
 # Deliverable 1
 
