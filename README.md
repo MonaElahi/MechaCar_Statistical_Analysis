@@ -4,7 +4,7 @@
 
 # Overview of the Project
 
-## Resoources
+## Resources
 
 # Deliverable 1
 
