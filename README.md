@@ -40,6 +40,8 @@ For this purpose it is required to review production data and perform statistica
 ### lot_summary Image
 ![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/Deliverable2_LotSummary.PNG)
 
+There is a summary that addresses the design specification requirement for all the manufacturing lots and each lot individually
+
 # Deliverable 3
 
 ## T-Tests on Suspension Coils
