@@ -89,9 +89,5 @@ for instance cost, city, highway fuel efficiency, horse power, maintenance cost,
 - Null Hypothesis: There will be no difference between MechaCar and Competitor when comparing the factors.
 - Alternative Hypothesis: There would be differences. (However the population data is same for MechaCar and competitors) 
 
-- Two sample t tests will be performed to rule out which population mean is greater than the other.
-
-* 
-* What data is needed to run the statistical test?
-* 
-
+- Multiple linear regression would be needed to analyze the factors directly/ indirectly responsible for setting the selling price.
+   
