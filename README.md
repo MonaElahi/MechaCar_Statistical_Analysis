@@ -30,7 +30,7 @@ For this purpose it is required to review production data and perform statistica
 
 The resulted Pr(>|t|) for Vehicle_length is 2.60e-12 and Ground_clearance is 5.21e-08
 
-- From the above statistical analysis there are two Coefficients, vehicle_length and ground_clearance which non random effect on mpg of the Mechacar.
+- From the above statistical analysis there are two Coefficients, vehicle_length and ground_clearance which has non random effect on mpg of the Mechacar.
 
 - The slope of the linear model can't be considered as zero because the p value is 5.35e-11 that is way smaller than assumed significance 0.05. 
 thus the null hypothesis must be rejected. 
@@ -66,7 +66,7 @@ that is not sufficient to reject the null hypothesis.
 
 ![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/2c3b24f80ad097ef7bada1ba04f1abc32abe4ceb/Images/Images/tTestLot1.PNG)
 
-The result of the t test for the suuspension coil for the Lot 1 is 1500 that is not statistically different from the population mean and p-value 
+The result of the t test for the suspension coil for the Lot 1 is 1500 that is not statistically different from the population mean and p-value 
 is 1 which accepts the null hypothesis.
 
 ![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/2c3b24f80ad097ef7bada1ba04f1abc32abe4ceb/Images/Images/tTestLot2.PNG)
@@ -81,11 +81,17 @@ The null hypothesis is rejected for the Lot 3 because p-value 0.40 that is under
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+There are number of factors, which MechaCar can bring to consideration against its competition, 
+for instance cost, city, highway fuel efficiency, horse power, maintenance cost, safety rating etc 
 
-In your description, address the following questions:
-* What metric or metrics are you going to test?
-* What is the null hypothesis or alternative hypothesis?
-* What statistical test would you use to test the hypothesis? And why?
+- All the above factors will be taken into consideration by MechaCar when comparing to competition. 
+
+- Null Hypothesis: There will be no difference between MechaCar and Competitor when comparing the factors.
+- Alternative Hypothesis: There would be differences. (However the population data is same for MechaCar and competitors) 
+
+- Two sample t tests will be performed to rule out which population mean is greater than the other.
+
+* 
 * What data is needed to run the statistical test?
+* 
 
