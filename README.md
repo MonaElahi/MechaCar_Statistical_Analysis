@@ -47,7 +47,7 @@ thus the null hypothesis must be rejected.
 
 Yes because the variance of suspension coil is 62.29356 PSI that is under 100 PSI variance requirement.
 
-### lot_summary Image
+### Lot_Summary Image
 ![git-hub](https://github.com/MonaElahi/MechaCar_Statistical_Analysis/blob/72bb5e4280cff830ec5c4cd7952eec00ba666746/Images/Deliverable2_LotSummary.PNG)
 
 For the Lot 1 and Lot 2 the variances are 0.980 and 7.47 respectively, are also with in the 100 PSI requirement.
